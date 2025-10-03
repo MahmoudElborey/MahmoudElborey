@@ -1,4 +1,3 @@
-# hi, i'm ma7moud
 
 i'm a **software engineer @ hilbertech** passionate about **distributed systems, microservices, system design, databases, and problem solving**.  
 
